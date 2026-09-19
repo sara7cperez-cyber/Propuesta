@@ -1,0 +1,6 @@
+{
+  "name": "Estrategias Comunicativas para EVA",
+  "description": "Presentación interactiva de diapositivas con guion de conversatorio para Entornos Virtuales de Aprendizaje y referencias bibliográficas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
